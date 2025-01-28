@@ -7,25 +7,25 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [ ] Goal 1
-- [ ] Goal 2
-- [ ] Goal 3
+- [x ] Goal 1: Complete Brainstorm
+- [x] Goal 2: Learn some fundamentals
+- [x] Goal 3: Grow through trial and error
 -->
 
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <Completed studio brainstorm, learned about some game desgin fundamentals>
+  - Completed studio brainstorm, learned about some game desgin fundamentals
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <Setting up githup pages properly and logo design>
+  -  Setting up githup pages properly and logo design>
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
   -  I googled my errors and fixed the github pages issue and just used the note sapp on my phone for a rough logo design.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <What constitutes a game, how gameplay is the most important aspect>
+-  What constitutes a game, how gameplay is the most important aspect
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
