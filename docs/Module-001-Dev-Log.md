@@ -21,7 +21,7 @@
   -  <Setting up githup pages properly and logo design>
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <I googled my errors and fixed the github pages issue and just used the note sapp on my phone for a rough logo design.>
+  -  I googled my errors and fixed the github pages issue and just used the note sapp on my phone for a rough logo design.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
@@ -29,7 +29,7 @@
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
--  <My logo could definitly use some work.>
+-  My logo could definitly use some work.
 <!--
 
 - Example prompts:
@@ -41,4 +41,4 @@
 
 #### Next Steps
 - Tasks or experiments to focus on during the next session.
--  <Working out which engine I want to stick with for my game>
+-  Working out which engine I want to stick with for my game
