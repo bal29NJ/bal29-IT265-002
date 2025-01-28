@@ -6,11 +6,11 @@
 ### Date: [01/27/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [x ] Goal 1: Complete Brainstorm
+!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
+- [x] Goal 1: Complete Brainstorm
 - [x] Goal 2: Learn some fundamentals
 - [x] Goal 3: Grow through trial and error
--->
+--
 
 #### Progress
 - **What I accomplished**:
