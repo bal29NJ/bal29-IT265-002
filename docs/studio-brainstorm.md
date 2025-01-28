@@ -2,7 +2,7 @@
 
 ## Studio Name Ideas
 - **Primary Ideas:**
-  - [Insert name idea 1]
+  - [Spark Studios]
   - [Insert name idea 2]
   - [Insert name idea 3]
 - **Alternative Ideas:**
@@ -10,8 +10,8 @@
   - [Insert alternative name idea 2]
   - [Insert alternative name idea 3]
 
-- **Chosen Name**:
-- **About the name**:
+- **Spark Studio**:
+- **Comes from part of my gamer tag.**:
 - **Social Medias with name available**:
 - **Possible domain names available**:
 
