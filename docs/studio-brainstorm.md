@@ -80,6 +80,7 @@
   - ["Architects of Fun."]
 
 -- **Sketches/Logo**:
+![unnamed](https://github.com/user-attachments/assets/4474058d-af67-437d-9443-3da6b82b5921)
 
 ---
 
