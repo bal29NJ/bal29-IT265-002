@@ -6,9 +6,9 @@
   - [Century Studios]
   - [Larose Studios]
 - **Alternative Ideas:**
-  - [Insert alternative name idea 1]
-  - [Insert alternative name idea 2]
-  - [Insert alternative name idea 3]
+  - [Terrific Games]
+  - [Auspicious Games]
+  - [Sacred Games]
 
 - **Spark Studios**:
 - **Comes from part of my gamer tag.**:
