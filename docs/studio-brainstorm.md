@@ -3,16 +3,16 @@
 ## Studio Name Ideas
 - **Primary Ideas:**
   - [Spark Studios]
-  - [Insert name idea 2]
-  - [Insert name idea 3]
+  - [Century Studios]
+  - [Larose Studios]
 - **Alternative Ideas:**
   - [Insert alternative name idea 1]
   - [Insert alternative name idea 2]
   - [Insert alternative name idea 3]
 
-- **Spark Studio**:
+- **Spark Studios**:
 - **Comes from part of my gamer tag.**:
-- **Social Medias with name available**:
+- **None of the popular ones have the handle available**:
 - **Possible domain names available**:
 
 ---
@@ -20,26 +20,26 @@
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
+> [Here at Spark Studios we aim to craft a magnificent player experience by constantly evolving our gameplay.]
 
 ---
 
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- [Value 1: e.g., Thoughtful Design]
-- [Value 2: e.g., Player-Centered Innovation]
-- [Value 3: e.g., Simplicity in Architecture]
-- [Value 4: e.g., Experimentation with Mechanics]
+- [Never stress the player for no reason]
+- [Meaningful choices]
+- [Fundamentals are Key]
+- [There are multiple paths to victory]
 
 ---
 
 ## Target Audience
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
-- **Demographic:** [e.g., Casual Players, Board Game Enthusiasts, Indie Game Fans]
-- **Interests:** [e.g., Strategic Gameplay, Narrative-Driven Experiences, Multiplayer Fun]
-- **Platforms:** [e.g., PC, Web, Mobile]
+- **Demographic:** [Casual players and skilled players alike.]
+- **Interests:** [Strategic Gameplay, Fun Multiplayer Experience]
+- **Platforms:** [PC,Console, Mobile]
 
 ---
 
@@ -47,37 +47,37 @@
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- [e.g., Strategy Games, Puzzle Games, Cooperative Board Games]
-- [e.g., Themes: Fantasy, Sci-Fi, Minimalist, etc.]
+- [Strategy Games]
+- [Fantasy, Sci-Fi,]
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> [Describe your USP, such as unique mechanics, storytelling integration, or player interaction.]
+> [Our story will be integrated into our cards, producing unique effects when the right cards are played together.]
 
 ---
 
 ## Tools and Technology
 *What tools and platforms will you use to develop, test, and publish your games?*
 
-- **Game Engine(s):** [e.g., Unity, Godot, Phaser for digital prototyping.]
-- **Art Tools:** [e.g., Inkscape, Aseprite for board/card assets.]
-- **Audio Tools:** [e.g., Audacity, Bfxr for sound effects.]
-- **Version Control:** [e.g., GitHub for tracking development.]
-- **Publishing Platforms:** [e.g., Itch.io, GitHub Pages for hosting digital prototypes.]
+- **Game Engine(s):** [Unity, Possibly Unreal Engine]
+- **Art Tools:** [Inkscape, Photoshop]
+- **Audio Tools:** [Audacity,]
+- **Version Control:** [Github]
+- **Publishing Platforms:** [Itch.io, GitHub Pages]
 
 ---
 
 ## Branding and Aesthetics
 *What will your studio's visual identity look like?*
 
-- **Logo Style:** [e.g., Minimalist, Geometric, Playful.]
+- **Logo Style:** [Simple]
 - **Tagline Ideas:** 
-  - [Tagline 1: e.g., "Simple Games, Complex Stories."]
-  - [Tagline 2: e.g., "Where Mechanics Meet Meaning."]
-  - [Tagline 3: e.g., "Architects of Fun."]
+  - ["Simple Games, Complex Stories."]
+  - ["Where Mechanics Meet Meaning."]
+  - ["Architects of Fun."]
 
 -- **Sketches/Logo**:
 
