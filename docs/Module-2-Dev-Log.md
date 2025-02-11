@@ -6,10 +6,10 @@
 ### Date: [02/10/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [] Goal 1: Complete Case Study 1
-- [] Goal 2: Learn more about game design
-- [] Goal 3: Complete this dev log
+ Example Template (include the brackets to make a checklist, fill them in as appropriate
+- [x] Goal 1: Complete Case Study 1
+- [x] Goal 2: Learn more about game design
+- [x] Goal 3: Complete this dev log
 -->
 
 #### Progress
