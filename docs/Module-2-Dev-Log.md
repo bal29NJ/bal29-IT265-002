@@ -7,9 +7,9 @@
 
 #### Goals for this Module
 <!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
-- [x] Goal 1: Complete Case Study 1
-- [x] Goal 2: Learn more about game design
-- [x] Goal 3: Complete this dev log
+- [] Goal 1: Complete Case Study 1
+- [] Goal 2: Learn more about game design
+- [] Goal 3: Complete this dev log
 -->
 
 #### Progress
