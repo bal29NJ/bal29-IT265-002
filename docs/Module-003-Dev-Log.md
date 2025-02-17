@@ -5,7 +5,7 @@
 ### Date: [02/17/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
+ Example Template (include the brackets to make a checklist, fill them in as appropriate
 - [x] Goal 1: Complete discussion
 - [x] Goal 2: Learn more about game mechanics
 - [x] Goal 3: Learn about color theory
