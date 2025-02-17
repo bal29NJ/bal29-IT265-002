@@ -24,7 +24,7 @@
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <I leanred a but about color theory and how different colors signify different things.
+-  <I leanred a bit about color theory and how different colors signify different things.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
