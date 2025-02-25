@@ -15,7 +15,7 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <Completed Case Study on Color Theory>
+  - <Completed Case Study on Color Theory
   - <Completed this document>
   - <Learned more about game design>
 - **Challenges faced**:
