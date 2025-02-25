@@ -16,18 +16,18 @@
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
   - <Completed Case Study on Color Theory
-  - <Completed this document>
-  - <Learned more about game design>
+  - <Completed this document
+  - <Learned more about game design
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <Bank Heist was an older game so the colors were very simple>
+  -  <Bank Heist was an older game so the colors were very simple
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <I applied color theory to what I could>
+  -  <I applied color theory to what I could
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <I learned the official names for things about color theory.>
+-  <I learned the official names for things about color theory.
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
