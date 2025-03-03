@@ -6,7 +6,7 @@
 ### Date: [03/03/2025]
 
 #### Goals for this Module
-<!-- Example Template (include the brackets to make a checklist, fill them in as appropriate
+ Example Template (include the brackets to make a checklist, fill them in as appropriate
 - [x] Goal 1: Learn more about game design
 - [x] Goal 2: Think of idea for game
 - [x] Goal 3: Think of unique feature for game
@@ -14,17 +14,17 @@
 #### Progress
 - **What I accomplished**:
   - Summarize completed tasks or progress made.
-  - <I have a general idea of what I want to do for my card game.
+  - I have a general idea of what I want to do for my card game.
 - **Challenges faced**:
   - Describe blockers, bugs, or issues encountered.
-  -  <I didn't really have an idea of what I wanted to do before this week.
+  -  I didn't really have an idea of what I wanted to do before this week.
 - **Solutions**:
   - Detail how you addressed challenges or your thought process.
-  -  <I thought about my favorite card games and what I liked and disliked about them.
+  -  I thought about my favorite card games and what I liked and disliked about them.
 
 #### Learnings
 - Key insights, techniques, or concepts explored.
--  <!--Your entry here or N/A if not applicable for this entry-->
+-  N/A
 
 #### Free Thinking
 - Brainstorm or reflect on design ideas, architecture patterns, or potential improvements.
