@@ -10,7 +10,6 @@
 - [x] Goal 1: Learn more about game design
 - [x] Goal 2: Think of idea for game
 - [x] Goal 3: Think of unique feature for game
--->
 
 #### Progress
 - **What I accomplished**:
