@@ -3,7 +3,7 @@
 ---
 Change Log:
 
-Mana: changed it so that you can summon any amount of monsters per turn so long as you have the mana. This was done to make the game faster paced.
+Mana: Changed it so that you can summon any amount of monsters per turn so long as you have the mana. This was done to make the game faster paced.
 
 Added movement system along with front line and backline: These mechanics were added to give more importance to where your place your monsters.
 
@@ -19,25 +19,31 @@ Duel or Die
 
 Players are forced into a duel they can't refuse by a mysterious entity. If they refuse, they'll automatically die.
 
+
 Game Setting:
 
 Setting is fantasy to allow for a wide range of creatures and monsters to be used as cards. Fantasy in the sense that magical creatures and things of that nature exist, but set in more modern times as opposed to medieval.
+
 
 Game Characters:
 
 There are three main characters, the two players that are dueling, and the mysterious entity that has beckoned them. The entity has no body, only speaking to the players through their minds when it needs to.
 
+
 Game Theme:
 
 Game is set in modern times (year 20xx). Fantasy elements are involved to allow for a wider range of idea to be implemented.
+
 
 Game Story:
 
 Players are mysteriously beckoned by a strange voice in their minds to an abandoned building. When they arrived, the doors are locked shut, and the scene around them transforms into a dueling stadium, in which they must fight to win. If players refuse to duel, they automatically die.
 
+
 Objectives and Conflicts:
 
 Each player will build a deck with cards of their choosing to use in the duel. Players will have to plan around the entity cards that they will have to draw every 3rd turn. The goal of the duel is to reduce the opponents health to zero to win. Cards will include monsters and creatures with which to do damage, and support cards to aid the player.
+
 
 Game Mechanics:
 
@@ -68,9 +74,11 @@ Competitive players that like to be the best at each game they play
 
 The game will be easy to pick up and enjoy, with the possiblity of crafting strong decks for people who want to make it competitive.
 
+
 Accessibility and inclusivity strategies:
 
 The game will have a wide range of viable strategies, i.e summoning multiple monsters to attack and deal damage, or setting up your board to summon one more powerful monster. There will be a range of different monsters to appeal to a wider audience, i.e ogres, fairies, elves, etc. Cards will be carefully balanced using the mana mechanic and other mechanics to ensure no one strategy is definitively better than the rest.
+
 
 Pitch preparation:
 
